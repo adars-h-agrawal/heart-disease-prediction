@@ -45,7 +45,7 @@ This project demonstrates end-to-end ML deployment: from dataset preparation →
 ## 🖼️ Demo
 
 ###  Home Page
-![Home Page](images/output.png)
+![Home Page](images/homepage.png)
 
 ###  Prediction Output
 ![Prediction Result](images/output.png)
